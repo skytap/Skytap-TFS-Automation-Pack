@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkytapCLI", "SkytapREST\SkytapCLI.csproj", "{DE60C08B-B22E-4261-8916-FDA4D1C891F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkytapCLITests", "SkytapHelperTests\SkytapCLITests.csproj", "{3C4B3A70-3263-410E-91BE-7F82F349F3E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BFA9868C-F8B4-433F-A804-1613620A1B62}"
+	ProjectSection(SolutionItems) = preProject
+		SkytapCLI.runsettings = SkytapCLI.runsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE60C08B-B22E-4261-8916-FDA4D1C891F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE60C08B-B22E-4261-8916-FDA4D1C891F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE60C08B-B22E-4261-8916-FDA4D1C891F6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE60C08B-B22E-4261-8916-FDA4D1C891F6}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{3C4B3A70-3263-410E-91BE-7F82F349F3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4B3A70-3263-410E-91BE-7F82F349F3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4B3A70-3263-410E-91BE-7F82F349F3E5}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4B3A70-3263-410E-91BE-7F82F349F3E5}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

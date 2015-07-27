@@ -1,0 +1,14 @@
+C:\Dev\Repos\TFS-Automation\SkytapREST\bin\Release\skytapcli.exe.config
+C:\Dev\Repos\TFS-Automation\SkytapREST\obj\Release\Skytap.Cloud.Properties.Resources.resources
+C:\Dev\Repos\TFS-Automation\SkytapREST\obj\Release\SkytapCLI.csproj.GenerateResource.Cache
+C:\Dev\Repos\TFS-Automation\SkytapREST\bin\Release\skytapcli.exe
+C:\Dev\Repos\TFS-Automation\SkytapREST\bin\Release\skytapcli.pdb
+C:\Dev\Repos\TFS-Automation\SkytapREST\obj\Release\skytapcli.exe
+C:\Dev\Repos\TFS-Automation\SkytapREST\obj\Release\skytapcli.pdb
+C:\Dev\Repos\TFS-Automation\SkytapREST\bin\Release\System.Web.4.0.0.0.Fakes.fakesconfig
+C:\Dev\Repos\TFS-Automation\SkytapREST\bin\Release\System.Xml.4.0.0.0.Fakes.fakesconfig
+C:\Dev\Repos\TFS-Automation\SkytapREST\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Dev\Repos\TFS-Automation\SkytapREST\bin\Release\System.Web.4.0.0.0.Fakes.dll
+C:\Dev\Repos\TFS-Automation\SkytapREST\bin\Release\System.Web.4.0.0.0.Fakes.xml
+C:\Dev\Repos\TFS-Automation\SkytapREST\obj\Release\SkytapCLI.csprojFakesResolveAssemblyReference.cache
+C:\Dev\Repos\TFS-Automation\SkytapREST\obj\Release\SkytapCLI.csprojResolveAssemblyReference.cache
